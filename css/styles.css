@@ -712,10 +712,6 @@ input[type='checkbox'] {
 
 .basic-4 .image-container {
 	margin-bottom: 1rem;
-	float: left;
-    width:  100px;
-    height: 100px;
-    object-fit: cover;
 }
 
 /* Hover Animation */
